@@ -1,0 +1,80 @@
+/* Home */
+#home{
+    background-color:#f4efe1;
+}
+.carousel{
+    width: 85%;
+    padding-left: 160px;
+}
+.btn-primary{
+    background-color: #450084;
+}
+.btn-primary:hover{
+    background-color: #450084;
+}
+.fa-solid{
+    padding: 10px
+}
+.navbar{
+    height: 100px;
+}
+/* About */
+#about{
+    background-color:#dacce6;
+}
+.img-thumbnail{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.bio{
+    padding-left: 0px
+}
+/* Staff */
+#staff{
+    background-color:#f4efe1;
+}
+.scott{
+    padding-right: 30px;
+}
+.amy{
+    padding-right: 20px;
+}
+.staff1{
+    padding-left: 50px
+}
+.staff2{
+    padding-left: 50px
+}
+.staff3{
+    padding-left: 50px
+}
+.staff4{
+    padding-left: 50px
+}
+
+/* Events */
+#events{
+    background-color:#dacce6;
+}
+.sbc{
+   padding-right: 10px
+}
+.bandday{
+    padding-left: 20px;
+}
+.poc{
+    padding-left: 40px;
+}
+/* Pep Band */
+#pepband{
+    background-color:#f4efe1;
+}
+.pepband{
+    background-color:#dacce6;
+    padding:15px;
+    opacity: 100%
+}
+
+#citations{
+    color: #fff
+}
